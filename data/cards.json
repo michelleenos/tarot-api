@@ -2,184 +2,206 @@
     {
         "name": "The Fool",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/the-fool-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["innocence", "new beginnings", "free spirit"],
-        "meanings_reversed": ["recklessness", "taken advantage of", "inconsideration"],
+        "keywords_upright": ["innocence", "new beginnings", "free spirit"],
+        "keywords_reversed": ["recklessness", "taken advantage of", "inconsideration"],
         "value": 1,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "The Magician",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/the-magician-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["willpower", "desire", "creation", "manifestation"],
-        "meanings_reversed": ["trickery", "illusions", "out of touch"],
+        "keywords_upright": ["willpower", "desire", "creation", "manifestation"],
+        "keywords_reversed": ["trickery", "illusions", "out of touch"],
         "value": 2,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "The High Priestess",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/the-high-priestess-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["intuitive", "unconscious", "inner voice"],
-        "meanings_reversed": ["lack of center", "lost inner voice", "repressed feelings"],
+        "keywords_upright": ["intuitive", "unconscious", "inner voice"],
+        "keywords_reversed": ["lack of center", "lost inner voice", "repressed feelings"],
         "value": 3,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "The Empress",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/the-empress-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["motherhood", "fertility", "nature"],
-        "meanings_reversed": ["dependence", "smothering", "emptiness", "nosiness"],
+        "keywords_upright": ["motherhood", "fertility", "nature"],
+        "keywords_reversed": ["dependence", "smothering", "emptiness", "nosiness"],
         "value": 4,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "The Emperor",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/the-emperor-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["authority", "structure", "control", "fatherhood"],
-        "meanings_reversed": ["tyranny", "rigidity", "coldness"],
+        "keywords_upright": ["authority", "structure", "control", "fatherhood"],
+        "keywords_reversed": ["tyranny", "rigidity", "coldness"],
         "value": 5,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "The Hierophant",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/the-hierophant-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["tradition", "conformity", "morality", "ethics"],
-        "meanings_reversed": ["rebellion", "subversiveness", "new approaches"],
+        "keywords_upright": ["tradition", "conformity", "morality", "ethics"],
+        "keywords_reversed": ["rebellion", "subversiveness", "new approaches"],
         "value": 6,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "The Lovers",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/the-lovers-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["partnerships", "duality", "union"],
-        "meanings_reversed": ["loss of balance", "one-sidedness", "disharmony"],
+        "keywords_upright": ["partnerships", "duality", "union"],
+        "keywords_reversed": ["loss of balance", "one-sidedness", "disharmony"],
         "value": 7,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "The Chariot",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/the-chariot-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["direction", "control", "willpower"],
-        "meanings_reversed": ["lack of control", "lack of direction", "aggression"],
+        "keywords_upright": ["direction", "control", "willpower"],
+        "keywords_reversed": ["lack of control", "lack of direction", "aggression"],
         "value": 8,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "Strength",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/strength-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["inner strength", "bravery", "compassion", "focus"],
-        "meanings_reversed": ["self doubt", "weakness", "insecurity"],
+        "keywords_upright": ["inner strength", "bravery", "compassion", "focus"],
+        "keywords_reversed": ["self doubt", "weakness", "insecurity"],
         "value": 9,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "The Hermit",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/the-hermit-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["contemplation", "search for truth", "inner guidance"],
-        "meanings_reversed": ["loneliness", "isolation", "lost your way"],
+        "keywords_upright": ["contemplation", "search for truth", "inner guidance"],
+        "keywords_reversed": ["loneliness", "isolation", "lost your way"],
         "value": 10,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "The Wheel of Fortune",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/the-wheel-of-fortune-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["change", "cycles", "inevitable fate"],
-        "meanings_reversed": ["no control", "clinging to control", "bad luck"],
+        "keywords_upright": ["change", "cycles", "inevitable fate"],
+        "keywords_reversed": ["no control", "clinging to control", "bad luck"],
         "value": 11,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "Justice",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/justice-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["cause and effect", "clarity", "truth"],
-        "meanings_reversed": ["dishonesty", "unaccountability", "unfairness"],
+        "keywords_upright": ["cause and effect", "clarity", "truth"],
+        "keywords_reversed": ["dishonesty", "unaccountability", "unfairness"],
         "value": 12,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "The Hanged Man",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/the-hanged-man-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["sacrifice", "release", "martyrdom"],
-        "meanings_reversed": ["stalling", "needless sacrifice", "fear of sacrifice"],
+        "keywords_upright": ["sacrifice", "release", "martyrdom"],
+        "keywords_reversed": ["stalling", "needless sacrifice", "fear of sacrifice"],
         "value": 13,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "Death",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/death-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["end of cycle", "beginnings", "change", "metamorphosis"],
-        "meanings_reversed": ["fear of change", "holding on", "stagnation", "decay"],
+        "keywords_upright": ["end of cycle", "beginnings", "change", "metamorphosis"],
+        "keywords_reversed": ["fear of change", "holding on", "stagnation", "decay"],
         "value": 14,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "Temperance",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/temperance-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["middle path", "patience", "finding meaning"],
-        "meanings_reversed": ["extremes", "excess", "lack of balance"],
+        "keywords_upright": ["middle path", "patience", "finding meaning"],
+        "keywords_reversed": ["extremes", "excess", "lack of balance"],
         "value": 15,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "The Devil",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/the-devil-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["addiction", "materialism", "playfulness"],
-        "meanings_reversed": ["freedom", "release", "restoring control"],
+        "keywords_upright": ["addiction", "materialism", "playfulness"],
+        "keywords_reversed": ["freedom", "release", "restoring control"],
         "value": 16,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "The Tower",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/the-tower-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["sudden upheaval", "broken pride", "disaster"],
-        "meanings_reversed": ["disaster avoided", "delayed disaster", "fear of suffering"],
+        "keywords_upright": ["sudden upheaval", "broken pride", "disaster"],
+        "keywords_reversed": ["disaster avoided", "delayed disaster", "fear of suffering"],
         "value": 17,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "The Star",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/the-star-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["hope", "faith", "rejuvenation"],
-        "meanings_reversed": ["faithlessness", "discouragement", "insecurity"],
+        "keywords_upright": ["hope", "faith", "rejuvenation"],
+        "keywords_reversed": ["faithlessness", "discouragement", "insecurity"],
         "value": 18,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "The Moon",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/the-moon-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["unconscious", "illusions", "intuition"],
-        "meanings_reversed": ["confusion", "fear", "misinterpretation"],
+        "keywords_upright": ["unconscious", "illusions", "intuition"],
+        "keywords_reversed": ["confusion", "fear", "misinterpretation"],
         "value": 19,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "The Sun",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/the-sun-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["joy", "success", "celebration", "positivity"],
-        "meanings_reversed": ["negativity", "depression", "sadness"],
+        "keywords_upright": ["joy", "success", "celebration", "positivity"],
+        "keywords_reversed": ["negativity", "depression", "sadness"],
         "value": 20,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "Judgement",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/judgement-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["reflection", "reckoning", "awakening"],
-        "meanings_reversed": ["lack of self awareness", "doubt", "self loathing"],
+        "keywords_upright": ["reflection", "reckoning", "awakening"],
+        "keywords_reversed": ["lack of self awareness", "doubt", "self loathing"],
         "value": 21,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "The World",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/the-world-meaning-major-arcana-tarot-card-meanings",
-        "meanings_upright": ["fulfillment", "harmony", "completion"],
-        "meanings_reversed": ["incompletion", "no closure"],
+        "keywords_upright": ["fulfillment", "harmony", "completion"],
+        "keywords_reversed": ["incompletion", "no closure"],
         "value": 22,
-        "arcana": "major"
+        "arcana": "major",
+        "suit": "major"
     },
     {
         "name": "Knight of Wands",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/knight-of-wands-meaning-tarot-card-meanings",
-        "meanings_upright": ["action", "adventure", "fearlessness"],
-        "meanings_reversed": ["anger", "impulsiveness", "recklessness"],
+        "keywords_upright": ["action", "adventure", "fearlessness"],
+        "keywords_reversed": ["anger", "impulsiveness", "recklessness"],
         "value": 12,
         "arcana": "minor",
         "suit": "wands"
@@ -187,8 +209,8 @@
     {
         "name": "King of Wands",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/king-of-wands-meaning-tarot-card-meanings",
-        "meanings_upright": ["big picture", "leader", "overcoming challenges"],
-        "meanings_reversed": ["impulsive", "overbearing", "unachievable expectations"],
+        "keywords_upright": ["big picture", "leader", "overcoming challenges"],
+        "keywords_reversed": ["impulsive", "overbearing", "unachievable expectations"],
         "value": 14,
         "arcana": "minor",
         "suit": "wands"
@@ -196,8 +218,8 @@
     {
         "name": "Queen of Wands",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/queen-of-wands-meaning-tarot-card-meanings",
-        "meanings_upright": ["courage", "determination", "joy"],
-        "meanings_reversed": ["selfishness", "jealousy", "insecurities"],
+        "keywords_upright": ["courage", "determination", "joy"],
+        "keywords_reversed": ["selfishness", "jealousy", "insecurities"],
         "value": 13,
         "arcana": "minor",
         "suit": "wands"
@@ -205,8 +227,8 @@
     {
         "name": "Page of Wands",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/page-of-wands-meaning-tarot-card-meanings",
-        "meanings_upright": ["exploration", "excitement", "freedom"],
-        "meanings_reversed": ["lack of direction", "procrastination", "creating conflict"],
+        "keywords_upright": ["exploration", "excitement", "freedom"],
+        "keywords_reversed": ["lack of direction", "procrastination", "creating conflict"],
         "value": 11,
         "arcana": "minor",
         "suit": "wands"
@@ -214,8 +236,8 @@
     {
         "name": "Two of Wands",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/two-of-wands-meaning-tarot-card-meanings",
-        "meanings_upright": ["planning", "making decisions", "leaving home"],
-        "meanings_reversed": ["fear of change", "playing safe", "bad planning"],
+        "keywords_upright": ["planning", "making decisions", "leaving home"],
+        "keywords_reversed": ["fear of change", "playing safe", "bad planning"],
         "value": 2,
         "arcana": "minor",
         "suit": "wands"
@@ -223,8 +245,8 @@
     {
         "name": "Three of Wands",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/three-of-wands-meaning-tarot-card-meanings",
-        "meanings_upright": ["looking ahead", "expansion", "rapid growth"],
-        "meanings_reversed": ["obstacles", "delays", "frustration"],
+        "keywords_upright": ["looking ahead", "expansion", "rapid growth"],
+        "keywords_reversed": ["obstacles", "delays", "frustration"],
         "value": 3,
         "arcana": "minor",
         "suit": "wands"
@@ -232,8 +254,8 @@
     {
         "name": "Five of Wands",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/five-of-wands-meaning-tarot-card-meanings",
-        "meanings_upright": ["competition", "rivalry", "conflict"],
-        "meanings_reversed": ["avoiding conflict", "respecting differences"],
+        "keywords_upright": ["competition", "rivalry", "conflict"],
+        "keywords_reversed": ["avoiding conflict", "respecting differences"],
         "value": 5,
         "arcana": "minor",
         "suit": "wands"
@@ -241,8 +263,8 @@
     {
         "name": "Six of Wands",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/six-of-wands-meaning-tarot-card-meanings",
-        "meanings_upright": ["victory", "success", "public reward"],
-        "meanings_reversed": ["excess pride", "lack of recognition", "punishment"],
+        "keywords_upright": ["victory", "success", "public reward"],
+        "keywords_reversed": ["excess pride", "lack of recognition", "punishment"],
         "value": 6,
         "arcana": "minor",
         "suit": "wands"
@@ -250,8 +272,8 @@
     {
         "name": "Eight of Wands",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/eight-of-wands-meaning-tarot-card-meanings",
-        "meanings_upright": ["rapid action", "movement", "quick decisions"],
-        "meanings_reversed": ["panic", "waiting", "slowdown"],
+        "keywords_upright": ["rapid action", "movement", "quick decisions"],
+        "keywords_reversed": ["panic", "waiting", "slowdown"],
         "value": 8,
         "arcana": "minor",
         "suit": "wands"
@@ -259,8 +281,8 @@
     {
         "name": "Nine of Wands",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/nine-of-wands-meaning-tarot-card-meanings",
-        "meanings_upright": ["resilience", "grit", "last stand"],
-        "meanings_reversed": ["exhaustion", "fatigue", "questioning motivations"],
+        "keywords_upright": ["resilience", "grit", "last stand"],
+        "keywords_reversed": ["exhaustion", "fatigue", "questioning motivations"],
         "value": 9,
         "arcana": "minor",
         "suit": "wands"
@@ -268,8 +290,8 @@
     {
         "name": "Ten of Wands",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/ten-of-wands-meaning-tarot-card-meanings",
-        "meanings_upright": ["accomplishment", "responsibility", "burden"],
-        "meanings_reversed": ["inability to delegate", "overstressed", "burnt out"],
+        "keywords_upright": ["accomplishment", "responsibility", "burden"],
+        "keywords_reversed": ["inability to delegate", "overstressed", "burnt out"],
         "value": 10,
         "arcana": "minor",
         "suit": "wands"
@@ -277,8 +299,8 @@
     {
         "name": "Ace of Wands",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/ace-of-wands-meaning-tarot-card-meanings",
-        "meanings_upright": ["creation", "willpower", "inspiration", "desire"],
-        "meanings_reversed": ["lack of energy", "lack of passion", "boredom"],
+        "keywords_upright": ["creation", "willpower", "inspiration", "desire"],
+        "keywords_reversed": ["lack of energy", "lack of passion", "boredom"],
         "value": 1,
         "arcana": "minor",
         "suit": "wands"
@@ -286,8 +308,8 @@
     {
         "name": "Four of Wands",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/four-of-wands-meaning-tarot-card-meanings",
-        "meanings_upright": ["community", "home", "celebration"],
-        "meanings_reversed": ["lack of support", "transience", "home conflicts"],
+        "keywords_upright": ["community", "home", "celebration"],
+        "keywords_reversed": ["lack of support", "transience", "home conflicts"],
         "value": 4,
         "arcana": "minor",
         "suit": "wands"
@@ -295,8 +317,8 @@
     {
         "name": "Seven of Wands",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/seven-of-wands-meaning-tarot-card-meanings",
-        "meanings_upright": ["perseverance", "defensive", "maintaining control"],
-        "meanings_reversed": ["give up", "destroyed confidence", "overwhelmed"],
+        "keywords_upright": ["perseverance", "defensive", "maintaining control"],
+        "keywords_reversed": ["give up", "destroyed confidence", "overwhelmed"],
         "value": 7,
         "arcana": "minor",
         "suit": "wands"
@@ -304,8 +326,8 @@
     {
         "name": "Ace of Cups",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/ace-of-cups-meaning-tarot-card-meanings",
-        "meanings_upright": ["new feelings", "spirituality", "intuition"],
-        "meanings_reversed": ["emotional loss", "blocked creativity", "emptiness"],
+        "keywords_upright": ["new feelings", "spirituality", "intuition"],
+        "keywords_reversed": ["emotional loss", "blocked creativity", "emptiness"],
         "value": 1,
         "arcana": "minor",
         "suit": "cups"
@@ -313,8 +335,8 @@
     {
         "name": "Two of Cups",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/two-of-cups-meaning-tarot-card-meanings",
-        "meanings_upright": ["unity", "partnership", "connection"],
-        "meanings_reversed": ["imbalance", "broken communication", "tension"],
+        "keywords_upright": ["unity", "partnership", "connection"],
+        "keywords_reversed": ["imbalance", "broken communication", "tension"],
         "value": 2,
         "arcana": "minor",
         "suit": "cups"
@@ -322,8 +344,8 @@
     {
         "name": "Three of Cups",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/three-of-cups-meaning-tarot-card-meanings",
-        "meanings_upright": ["friendship", "community", "happiness"],
-        "meanings_reversed": ["overindulgence", "gossip", "isolation"],
+        "keywords_upright": ["friendship", "community", "happiness"],
+        "keywords_reversed": ["overindulgence", "gossip", "isolation"],
         "value": 3,
         "arcana": "minor",
         "suit": "cups"
@@ -331,8 +353,8 @@
     {
         "name": "Four of Cups",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/four-of-cups-meaning-tarot-card-meanings",
-        "meanings_upright": ["apathy", "contemplation", "disconnectedness"],
-        "meanings_reversed": ["sudden awareness", "choosing happiness", "acceptance"],
+        "keywords_upright": ["apathy", "contemplation", "disconnectedness"],
+        "keywords_reversed": ["sudden awareness", "choosing happiness", "acceptance"],
         "value": 4,
         "arcana": "minor",
         "suit": "cups"
@@ -340,8 +362,8 @@
     {
         "name": "Five of Cups",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/five-of-cups-meaning-tarot-card-meanings",
-        "meanings_upright": ["loss", "grief", "self-pity"],
-        "meanings_reversed": ["acceptance", "moving on", "finding peace"],
+        "keywords_upright": ["loss", "grief", "self-pity"],
+        "keywords_reversed": ["acceptance", "moving on", "finding peace"],
         "value": 5,
         "arcana": "minor",
         "suit": "cups"
@@ -349,8 +371,8 @@
     {
         "name": "Six of Cups",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/six-of-cups-meaning-tarot-card-meanings",
-        "meanings_upright": ["familiarity", "happy memories", "healing"],
-        "meanings_reversed": ["moving forward", "leaving home", "independence"],
+        "keywords_upright": ["familiarity", "happy memories", "healing"],
+        "keywords_reversed": ["moving forward", "leaving home", "independence"],
         "value": 6,
         "arcana": "minor",
         "suit": "cups"
@@ -358,8 +380,8 @@
     {
         "name": "Seven of Cups",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/seven-of-cups-meaning-tarot-card-meanings",
-        "meanings_upright": ["searching for purpose", "choices", "daydreaming"],
-        "meanings_reversed": ["lack of purpose", "diversion", "confusion"],
+        "keywords_upright": ["searching for purpose", "choices", "daydreaming"],
+        "keywords_reversed": ["lack of purpose", "diversion", "confusion"],
         "value": 7,
         "arcana": "minor",
         "suit": "cups"
@@ -367,8 +389,8 @@
     {
         "name": "Eight of Cups",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/eight-of-cups-meaning-tarot-card-meanings",
-        "meanings_upright": ["walking away", "disillusionment", "leaving behind"],
-        "meanings_reversed": ["avoidance", "fear of change", "fear of loss"],
+        "keywords_upright": ["walking away", "disillusionment", "leaving behind"],
+        "keywords_reversed": ["avoidance", "fear of change", "fear of loss"],
         "value": 8,
         "arcana": "minor",
         "suit": "cups"
@@ -376,8 +398,8 @@
     {
         "name": "Nine of Cups",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/nine-of-cups-meaning-tarot-card-meanings",
-        "meanings_upright": ["satisfaction", "emotional stability", "luxury"],
-        "meanings_reversed": ["lack of inner joy", "smugness", "dissatisfaction"],
+        "keywords_upright": ["satisfaction", "emotional stability", "luxury"],
+        "keywords_reversed": ["lack of inner joy", "smugness", "dissatisfaction"],
         "value": 9,
         "arcana": "minor",
         "suit": "cups"
@@ -385,8 +407,8 @@
     {
         "name": "Ten of Cups",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/ten-of-cups-meaning-tarot-card-meanings",
-        "meanings_upright": ["inner happiness", "fulfillment", "dreams coming true"],
-        "meanings_reversed": ["shattered dreams", "broken family", "domestic disharmony"],
+        "keywords_upright": ["inner happiness", "fulfillment", "dreams coming true"],
+        "keywords_reversed": ["shattered dreams", "broken family", "domestic disharmony"],
         "value": 10,
         "arcana": "minor",
         "suit": "cups"
@@ -394,8 +416,8 @@
     {
         "name": "Page of Cups",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/page-of-cups-meaning-tarot-card-meanings",
-        "meanings_upright": ["happy surprise", "dreamer", "sensitivity"],
-        "meanings_reversed": ["emotional immaturity", "insecurity", "disappointment"],
+        "keywords_upright": ["happy surprise", "dreamer", "sensitivity"],
+        "keywords_reversed": ["emotional immaturity", "insecurity", "disappointment"],
         "value": 11,
         "arcana": "minor",
         "suit": "cups"
@@ -403,8 +425,8 @@
     {
         "name": "Knight of Cups",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/knight-of-cups-meaning-tarot-card-meanings",
-        "meanings_upright": ["following the heart", "idealist", "romantic"],
-        "meanings_reversed": ["moodiness", "disappointment"],
+        "keywords_upright": ["following the heart", "idealist", "romantic"],
+        "keywords_reversed": ["moodiness", "disappointment"],
         "value": 12,
         "arcana": "minor",
         "suit": "cups"
@@ -412,8 +434,8 @@
     {
         "name": "Queen of Cups",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/queen-of-cups-meaning-tarot-card-meanings",
-        "meanings_upright": ["compassion", "calm", "comfort"],
-        "meanings_reversed": ["martyrdom", "insecurity", "dependence"],
+        "keywords_upright": ["compassion", "calm", "comfort"],
+        "keywords_reversed": ["martyrdom", "insecurity", "dependence"],
         "value": 13,
         "arcana": "minor",
         "suit": "cups"
@@ -421,8 +443,8 @@
     {
         "name": "King of Cups",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/king-of-cups-meaning-tarot-card-meanings",
-        "meanings_upright": ["compassion", "control", "balance"],
-        "meanings_reversed": ["coldness", "moodiness", "bad advice"],
+        "keywords_upright": ["compassion", "control", "balance"],
+        "keywords_reversed": ["coldness", "moodiness", "bad advice"],
         "value": 14,
         "arcana": "minor",
         "suit": "cups"
@@ -430,8 +452,8 @@
     {
         "name": "King of Swords",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/king-of-swords-meaning-tarot-card-meanings",
-        "meanings_upright": ["head over heart", "discipline", "truth"],
-        "meanings_reversed": ["manipulative", "cruel", "weakness"],
+        "keywords_upright": ["head over heart", "discipline", "truth"],
+        "keywords_reversed": ["manipulative", "cruel", "weakness"],
         "value": 14,
         "arcana": "minor",
         "suit": "swords"
@@ -439,8 +461,8 @@
     {
         "name": "Knight of Swords",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/knight-of-swords-meaning-tarot-card-meanings",
-        "meanings_upright": ["action", "impulsiveness", "defending beliefs"],
-        "meanings_reversed": ["no direction", "disregard for consequences", "unpredictability"],
+        "keywords_upright": ["action", "impulsiveness", "defending beliefs"],
+        "keywords_reversed": ["no direction", "disregard for consequences", "unpredictability"],
         "value": 12,
         "arcana": "minor",
         "suit": "swords"
@@ -448,8 +470,8 @@
     {
         "name": "Queen of Swords",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/queen-of-swords-meaning-tarot-card-meanings",
-        "meanings_upright": ["complexity", "perceptiveness", "clear mindedness"],
-        "meanings_reversed": ["cold hearted", "cruel", "bitterness"],
+        "keywords_upright": ["complexity", "perceptiveness", "clear mindedness"],
+        "keywords_reversed": ["cold hearted", "cruel", "bitterness"],
         "value": 13,
         "arcana": "minor",
         "suit": "swords"
@@ -457,8 +479,8 @@
     {
         "name": "Page of Swords",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/page-of-swords-meaning-tarot-card-meanings",
-        "meanings_upright": ["curiosity", "restlessness", "mental energy"],
-        "meanings_reversed": ["deception", "manipulation", "all talk"],
+        "keywords_upright": ["curiosity", "restlessness", "mental energy"],
+        "keywords_reversed": ["deception", "manipulation", "all talk"],
         "value": 11,
         "arcana": "minor",
         "suit": "swords"
@@ -466,8 +488,8 @@
     {
         "name": "Ten of Swords",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/ten-of-swords-meaning-tarot-card-meanings",
-        "meanings_upright": ["failure", "collapse", "defeat"],
-        "meanings_reversed": ["can't get worse", "only upwards", "inevitable end"],
+        "keywords_upright": ["failure", "collapse", "defeat"],
+        "keywords_reversed": ["can't get worse", "only upwards", "inevitable end"],
         "value": 10,
         "arcana": "minor",
         "suit": "swords"
@@ -475,8 +497,8 @@
     {
         "name": "Nine of Swords",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/nine-of-swords-meaning-tarot-card-meanings",
-        "meanings_upright": ["anxiety", "hopelessness", "trauma"],
-        "meanings_reversed": ["hope", "reaching out", "despair"],
+        "keywords_upright": ["anxiety", "hopelessness", "trauma"],
+        "keywords_reversed": ["hope", "reaching out", "despair"],
         "value": 9,
         "arcana": "minor",
         "suit": "swords"
@@ -484,8 +506,8 @@
     {
         "name": "Eight of Swords",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/eight-of-swords-meaning-tarot-card-meanings",
-        "meanings_upright": ["imprisonment", "entrapment", "self-victimization"],
-        "meanings_reversed": ["self acceptance", "new perspective", "freedom"],
+        "keywords_upright": ["imprisonment", "entrapment", "self-victimization"],
+        "keywords_reversed": ["self acceptance", "new perspective", "freedom"],
         "value": 8,
         "arcana": "minor",
         "suit": "swords"
@@ -493,8 +515,8 @@
     {
         "name": "Seven of Swords",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/seven-of-swords-meaning-tarot-card-meanings",
-        "meanings_upright": ["deception", "trickery", "tactics and strategy"],
-        "meanings_reversed": ["coming clean", "rethinking approach", "deception"],
+        "keywords_upright": ["deception", "trickery", "tactics and strategy"],
+        "keywords_reversed": ["coming clean", "rethinking approach", "deception"],
         "value": 7,
         "arcana": "minor",
         "suit": "swords"
@@ -502,8 +524,8 @@
     {
         "name": "Six of Swords",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/six-of-swords-meaning-tarot-card-meanings",
-        "meanings_upright": ["transition", "leaving behind", "moving on"],
-        "meanings_reversed": ["emotional baggage", "unresolved issues", "resisting transition"],
+        "keywords_upright": ["transition", "leaving behind", "moving on"],
+        "keywords_reversed": ["emotional baggage", "unresolved issues", "resisting transition"],
         "value": 6,
         "arcana": "minor",
         "suit": "swords"
@@ -511,8 +533,8 @@
     {
         "name": "Five of Swords",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/five-of-swords-meaning-tarot-card-meanings",
-        "meanings_upright": ["unbridled ambition", "win at all costs", "sneakiness"],
-        "meanings_reversed": ["lingering resentment", "desire to reconcile", "forgiveness"],
+        "keywords_upright": ["unbridled ambition", "win at all costs", "sneakiness"],
+        "keywords_reversed": ["lingering resentment", "desire to reconcile", "forgiveness"],
         "value": 5,
         "arcana": "minor",
         "suit": "swords"
@@ -520,8 +542,8 @@
     {
         "name": "Three of Swords",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/three-of-swords-meaning-tarot-card-meanings",
-        "meanings_upright": ["heartbreak", "suffering", "grief"],
-        "meanings_reversed": ["recovery", "forgiveness", "moving on"],
+        "keywords_upright": ["heartbreak", "suffering", "grief"],
+        "keywords_reversed": ["recovery", "forgiveness", "moving on"],
         "value": 3,
         "arcana": "minor",
         "suit": "swords"
@@ -529,8 +551,8 @@
     {
         "name": "Four of Swords",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/four-of-swords-meaning-tarot-card-meanings",
-        "meanings_upright": ["rest", "restoration", "contemplation"],
-        "meanings_reversed": ["restlessness", "burnout", "stress"],
+        "keywords_upright": ["rest", "restoration", "contemplation"],
+        "keywords_reversed": ["restlessness", "burnout", "stress"],
         "value": 4,
         "arcana": "minor",
         "suit": "swords"
@@ -538,8 +560,8 @@
     {
         "name": "Two of Swords",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/two-of-swords-meaning-tarot-card-meanings",
-        "meanings_upright": ["difficult choices", "indecision", "stalemate"],
-        "meanings_reversed": ["lesser of two evils", "no right choice", "confusion"],
+        "keywords_upright": ["difficult choices", "indecision", "stalemate"],
+        "keywords_reversed": ["lesser of two evils", "no right choice", "confusion"],
         "value": 2,
         "arcana": "minor",
         "suit": "swords"
@@ -547,8 +569,8 @@
     {
         "name": "Ace of Swords",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/ace-of-swords-meaning-tarot-card-meanings",
-        "meanings_upright": ["breakthrough", "clarity", "sharp mind"],
-        "meanings_reversed": ["confusion", "brutality", "chaos"],
+        "keywords_upright": ["breakthrough", "clarity", "sharp mind"],
+        "keywords_reversed": ["confusion", "brutality", "chaos"],
         "value": 1,
         "arcana": "minor",
         "suit": "swords"
@@ -556,8 +578,8 @@
     {
         "name": "King of Pentacles",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/king-of-pentacles-meaning-tarot-card-meanings",
-        "meanings_upright": ["abundance", "prosperity", "security"],
-        "meanings_reversed": ["greed", "indulgence", "sensuality"],
+        "keywords_upright": ["abundance", "prosperity", "security"],
+        "keywords_reversed": ["greed", "indulgence", "sensuality"],
         "value": 14,
         "arcana": "minor",
         "suit": "pentacles"
@@ -565,8 +587,8 @@
     {
         "name": "Queen of Pentacles",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/queen-of-pentacles-meaning-tarot-card-meanings",
-        "meanings_upright": ["practicality", "creature comforts", "financial security"],
-        "meanings_reversed": ["self-centeredness", "jealousy", "smothering"],
+        "keywords_upright": ["practicality", "creature comforts", "financial security"],
+        "keywords_reversed": ["self-centeredness", "jealousy", "smothering"],
         "value": 13,
         "arcana": "minor",
         "suit": "pentacles"
@@ -574,8 +596,8 @@
     {
         "name": "Knight of Pentacles",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/knight-of-pentacles-meaning-tarot-card-meanings",
-        "meanings_upright": ["efficiency", "hard work", "responsibility"],
-        "meanings_reversed": ["laziness", "obsessiveness", "work without reward"],
+        "keywords_upright": ["efficiency", "hard work", "responsibility"],
+        "keywords_reversed": ["laziness", "obsessiveness", "work without reward"],
         "value": 12,
         "arcana": "minor",
         "suit": "pentacles"
@@ -583,8 +605,8 @@
     {
         "name": "Page of Pentacles",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/page-of-pentacles-meaning-tarot-card-meanings",
-        "meanings_upright": ["ambition", "desire", "diligence"],
-        "meanings_reversed": ["lack of commitment", "greediness", "laziness"],
+        "keywords_upright": ["ambition", "desire", "diligence"],
+        "keywords_reversed": ["lack of commitment", "greediness", "laziness"],
         "value": 11,
         "arcana": "minor",
         "suit": "pentacles"
@@ -592,8 +614,8 @@
     {
         "name": "Ten of Pentacles",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/ten-of-pentacles-meaning-tarot-card-meanings",
-        "meanings_upright": ["legacy", "culmination", "inheritance"],
-        "meanings_reversed": ["fleeting success", "lack of stability", "lack of resources"],
+        "keywords_upright": ["legacy", "culmination", "inheritance"],
+        "keywords_reversed": ["fleeting success", "lack of stability", "lack of resources"],
         "value": 10,
         "arcana": "minor",
         "suit": "pentacles"
@@ -601,8 +623,8 @@
     {
         "name": "Nine of Pentacles",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/nine-of-pentacles-meaning-tarot-card-meanings",
-        "meanings_upright": ["fruits of labor", "rewards", "luxury"],
-        "meanings_reversed": ["reckless spending", "living beyond means", "false success"],
+        "keywords_upright": ["fruits of labor", "rewards", "luxury"],
+        "keywords_reversed": ["reckless spending", "living beyond means", "false success"],
         "value": 9,
         "arcana": "minor",
         "suit": "pentacles"
@@ -610,8 +632,8 @@
     {
         "name": "Eight of Pentacles",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/eight-of-pentacles-meaning-tarot-card-meanings",
-        "meanings_upright": ["apprenticeship", "passion", "high standards"],
-        "meanings_reversed": ["lack of passion", "uninspired", "no motivation"],
+        "keywords_upright": ["apprenticeship", "passion", "high standards"],
+        "keywords_reversed": ["lack of passion", "uninspired", "no motivation"],
         "value": 8,
         "arcana": "minor",
         "suit": "pentacles"
@@ -619,8 +641,8 @@
     {
         "name": "Seven of Pentacles",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/seven-of-pentacles-meaning-tarot-card-meanings",
-        "meanings_upright": ["hard work", "perseverance", "diligence"],
-        "meanings_reversed": ["work without results", "distractions", "lack of rewards"],
+        "keywords_upright": ["hard work", "perseverance", "diligence"],
+        "keywords_reversed": ["work without results", "distractions", "lack of rewards"],
         "value": 7,
         "arcana": "minor",
         "suit": "pentacles"
@@ -628,8 +650,8 @@
     {
         "name": "Six of Pentacles",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/six-of-pentacles-meaning-tarot-card-meanings",
-        "meanings_upright": ["charity", "generosity", "sharing"],
-        "meanings_reversed": ["strings attached", "stinginess", "power and domination"],
+        "keywords_upright": ["charity", "generosity", "sharing"],
+        "keywords_reversed": ["strings attached", "stinginess", "power and domination"],
         "value": 6,
         "arcana": "minor",
         "suit": "pentacles"
@@ -637,8 +659,8 @@
     {
         "name": "Five of Pentacles",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/five-of-pentacles-meaning-tarot-card-meanings",
-        "meanings_upright": ["need", "poverty", "insecurity"],
-        "meanings_reversed": ["recovery", "charity", "improvement"],
+        "keywords_upright": ["need", "poverty", "insecurity"],
+        "keywords_reversed": ["recovery", "charity", "improvement"],
         "value": 5,
         "arcana": "minor",
         "suit": "pentacles"
@@ -646,8 +668,8 @@
     {
         "name": "Four of Pentacles",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/four-of-pentacles-meaning-tarot-card-meanings",
-        "meanings_upright": ["conservation", "frugality", "security"],
-        "meanings_reversed": ["greediness", "stinginess", "possessiveness"],
+        "keywords_upright": ["conservation", "frugality", "security"],
+        "keywords_reversed": ["greediness", "stinginess", "possessiveness"],
         "value": 4,
         "arcana": "minor",
         "suit": "pentacles"
@@ -655,8 +677,8 @@
     {
         "name": "Three of Pentacles",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/three-of-pentacles-meaning-tarot-card-meanings",
-        "meanings_upright": ["teamwork", "collaboration", "building"],
-        "meanings_reversed": ["lack of teamwork", "disorganized", "group conflict"],
+        "keywords_upright": ["teamwork", "collaboration", "building"],
+        "keywords_reversed": ["lack of teamwork", "disorganized", "group conflict"],
         "value": 3,
         "arcana": "minor",
         "suit": "pentacles"
@@ -664,8 +686,8 @@
     {
         "name": "Two of Pentacles",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/two-of-pentacles-meaning-tarot-card-meanings",
-        "meanings_upright": ["balancing decisions", "priorities", "adapting to change"],
-        "meanings_reversed": ["loss of balance", "disorganized", "overwhelmed"],
+        "keywords_upright": ["balancing decisions", "priorities", "adapting to change"],
+        "keywords_reversed": ["loss of balance", "disorganized", "overwhelmed"],
         "value": 2,
         "arcana": "minor",
         "suit": "pentacles"
@@ -673,8 +695,8 @@
     {
         "name": "Ace of Pentacles",
         "url": "https://labyrinthos.co/blogs/tarot-card-meanings-list/ace-of-pentacles-meaning-tarot-card-meanings",
-        "meanings_upright": ["opportunity", "prosperity", "new venture"],
-        "meanings_reversed": ["lost opportunity", "missed chance", "bad investment"],
+        "keywords_upright": ["opportunity", "prosperity", "new venture"],
+        "keywords_reversed": ["lost opportunity", "missed chance", "bad investment"],
         "value": 1,
         "arcana": "minor",
         "suit": "pentacles"
