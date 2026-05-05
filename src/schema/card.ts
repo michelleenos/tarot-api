@@ -2,7 +2,7 @@ import { z } from 'zod'
 import { SuitSchema, ArcanaSchema } from './suits-arcana'
 
 export const MinorValueSchema = z.number().int().min(1).max(14)
-export const MajorValueSchema = z.number().int().min(1).max(22)
+export const MajorValueSchema = z.number().int().min(0).max(21)
 
 const CardSharedSchema = z.object({
     name: z.string(),
