@@ -4,7 +4,6 @@
         "target": "esnext",
         "moduleResolution": "bundler",
 
-        // Recommended Options
         "strict": true,
         "verbatimModuleSyntax": true,
         "isolatedModules": true,
@@ -15,7 +14,7 @@
         "skipLibCheck": true,
 
         "sourceMap": true,
-        "noEmit": true,
+        // "noEmit": true,
         "resolveJsonModule": true
     }
 }
