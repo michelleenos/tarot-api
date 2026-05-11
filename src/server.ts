@@ -6,7 +6,7 @@ import {
     CardMajorSchema,
     CardMinorParamsSchema,
     CardMinorSchema,
-} from 'shared'
+} from './schema'
 import { z, type ZodType } from 'zod'
 import { getAllCards, getCardsByGroup, getMajorCard, getMinorCard } from './tarot'
 
