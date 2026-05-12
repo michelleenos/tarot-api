@@ -11,3 +11,4 @@ scrape/images
 .DS_Store
 
 coverage
+.claude
