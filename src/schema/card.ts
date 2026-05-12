@@ -1,21 +1,19 @@
 import { z } from 'zod'
-import { SuitSchema, ArcanaSchema } from './suits-arcana'
-
-export const MinorValueSchema = z.number().int().min(1).max(14)
-export const MajorValueSchema = z.number().int().min(0).max(21)
+import { ArcanaSchema, MajorValueSchema, MinorValueSchema, SuitSchema } from './card-props'
 
 const CardSharedSchema = z.object({
     name: z.string(),
     arcana: ArcanaSchema,
     keywords_upright: z.array(z.string()),
     keywords_reversed: z.array(z.string()),
-    url: z.string(),
+    url: z.optional(z.string()),
 })
 
 export const CardMajorSchema = z.object({
     ...CardSharedSchema.shape,
     arcana: z.literal('major'),
     value: MajorValueSchema,
+    suit: z.null(),
 })
 export type CardMajor = z.infer<typeof CardMajorSchema>
 

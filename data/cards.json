@@ -6,7 +6,7 @@
         "keywords_reversed": ["recklessness", "taken advantage of", "inconsideration"],
         "value": 0,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "The Magician",
@@ -15,7 +15,7 @@
         "keywords_reversed": ["trickery", "illusions", "out of touch"],
         "value": 1,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "The High Priestess",
@@ -24,7 +24,7 @@
         "keywords_reversed": ["lack of center", "lost inner voice", "repressed feelings"],
         "value": 2,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "The Empress",
@@ -33,7 +33,7 @@
         "keywords_reversed": ["dependence", "smothering", "emptiness", "nosiness"],
         "value": 3,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "The Emperor",
@@ -42,7 +42,7 @@
         "keywords_reversed": ["tyranny", "rigidity", "coldness"],
         "value": 4,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "The Hierophant",
@@ -51,7 +51,7 @@
         "keywords_reversed": ["rebellion", "subversiveness", "new approaches"],
         "value": 5,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "The Lovers",
@@ -60,7 +60,7 @@
         "keywords_reversed": ["loss of balance", "one-sidedness", "disharmony"],
         "value": 6,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "The Chariot",
@@ -69,7 +69,7 @@
         "keywords_reversed": ["lack of control", "lack of direction", "aggression"],
         "value": 7,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "Strength",
@@ -78,7 +78,7 @@
         "keywords_reversed": ["self doubt", "weakness", "insecurity"],
         "value": 8,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "The Hermit",
@@ -87,7 +87,7 @@
         "keywords_reversed": ["loneliness", "isolation", "lost your way"],
         "value": 9,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "The Wheel of Fortune",
@@ -96,7 +96,7 @@
         "keywords_reversed": ["no control", "clinging to control", "bad luck"],
         "value": 10,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "Justice",
@@ -105,7 +105,7 @@
         "keywords_reversed": ["dishonesty", "unaccountability", "unfairness"],
         "value": 11,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "The Hanged Man",
@@ -114,7 +114,7 @@
         "keywords_reversed": ["stalling", "needless sacrifice", "fear of sacrifice"],
         "value": 12,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "Death",
@@ -123,7 +123,7 @@
         "keywords_reversed": ["fear of change", "holding on", "stagnation", "decay"],
         "value": 13,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "Temperance",
@@ -132,7 +132,7 @@
         "keywords_reversed": ["extremes", "excess", "lack of balance"],
         "value": 14,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "The Devil",
@@ -141,7 +141,7 @@
         "keywords_reversed": ["freedom", "release", "restoring control"],
         "value": 15,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "The Tower",
@@ -150,7 +150,7 @@
         "keywords_reversed": ["disaster avoided", "delayed disaster", "fear of suffering"],
         "value": 16,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "The Star",
@@ -159,7 +159,7 @@
         "keywords_reversed": ["faithlessness", "discouragement", "insecurity"],
         "value": 17,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "The Moon",
@@ -168,7 +168,7 @@
         "keywords_reversed": ["confusion", "fear", "misinterpretation"],
         "value": 18,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "The Sun",
@@ -177,7 +177,7 @@
         "keywords_reversed": ["negativity", "depression", "sadness"],
         "value": 19,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "Judgement",
@@ -186,7 +186,7 @@
         "keywords_reversed": ["lack of self awareness", "doubt", "self loathing"],
         "value": 20,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "The World",
@@ -195,7 +195,7 @@
         "keywords_reversed": ["incompletion", "no closure"],
         "value": 21,
         "arcana": "major",
-        "suit": "major"
+        "suit": null
     },
     {
         "name": "Knight of Wands",

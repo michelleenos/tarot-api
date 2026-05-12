@@ -9,3 +9,5 @@ dist-ssr
 scrape/images
  
 .DS_Store
+
+coverage
