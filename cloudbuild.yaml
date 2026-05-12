@@ -26,3 +26,4 @@ steps:
           - --region=us-central1
           - --platform=managed
           - --concurrency=2
+          - --allow-unauthenticated
