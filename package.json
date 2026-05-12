@@ -5,10 +5,12 @@
     "main": "index.js",
     "type": "module",
     "scripts": {
-        "start": "node dist/index.js",
         "dev": "tsx --watch src/index.ts",
         "lint": "eslint .",
         "build": "tsup src/index.ts --format esm",
+        "serve": "node dist/index.js",
+        "docker:build": "docker build -t tarot-api .",
+        "docker:run": "docker run -p 8080:8080 -e PORT=8080 tarot-api",
         "test": "vitest",
         "test:ui": "vitest --ui",
         "test:coverage": "vitest --coverage"
