@@ -20,10 +20,18 @@ import {
     searchByKeyword,
 } from './tarot'
 import { sendValidated } from './utils'
+import { rateLimit } from 'express-rate-limit'
 
 const app = express()
 
 app.use(express.json())
+
+const limiter = rateLimit({
+    windowMs: 15 * 60 * 1000,
+    limit: 100,
+})
+
+app.use(limiter)
 
 app.get('/', (_req, res) => {
     res.json({
