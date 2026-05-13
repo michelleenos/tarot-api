@@ -1,8 +1,12 @@
-# Tarot API
+# 🔮 Tarot API 🔮
 
-A free, read-only REST API for tarot card data. Live at [tarot.michelleenos.com](https://tarot.michelleenos.com).
+A tarot card REST API for all of your witchy needs!
 
-Keyword meanings were scraped from [labyrinthos.co](https://labyrinthos.co). Each card response includes a `url` field linking to that card's page there.
+Currently deployed and free for use as long as I stay within google's free tier allotment :) Also, it will likely spin down between requests so the first call might be a tad slow.
+
+Access the API live at [tarot.michelleenos.com](https://tarot.michelleenos.com).
+
+**CREDITS**: Keyword meanings were scraped from [labyrinthos.co](https://labyrinthos.co). Each card response includes a `url` field linking to that card's page there.
 
 ---
 
@@ -38,7 +42,7 @@ Keyword meanings were scraped from [labyrinthos.co](https://labyrinthos.co). Eac
 
 ### `GET /cards`
 
-Returns all 78 cards. Optionally filter by keyword.
+Get all 78 cards, or filter by keyword.
 
 **Query parameters:**
 
@@ -118,7 +122,7 @@ GET /cards/major/1     # The Magician
 
 ### `GET /cards/random`
 
-Returns one or more randomly selected cards.
+Returns one or more randomly selected cards. By default, it will also assign a `"reversed"` field for each card to either `true` or `false`, to mimic actually drawing cards that might be in either orientation. You can disable this with `orientation=false`.
 
 **Query parameters:**
 
@@ -126,8 +130,6 @@ Returns one or more randomly selected cards.
 | ------------- | ----------------- | ------- | ------------------------------------------------------ |
 | `count`       | integer           | `1`     | Number of cards to return                              |
 | `orientation` | `true` \| `false` | `true`  | If true, each card includes a `reversed` boolean field |
-
-When `orientation=true` (the default), the API will randomly decide if your card is reversed or upright, and include the `reversed` field alongside the rest of the card data.
 
 **Examples:**
 
