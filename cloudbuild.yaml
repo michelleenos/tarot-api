@@ -33,5 +33,5 @@ steps:
           - --image=us-central1-docker.pkg.dev/$PROJECT_ID/tarot-api-container/tarot-api:$COMMIT_SHA
           - --region=us-central1
           - --platform=managed
-          - --concurrency=2
+          - --max-instances=1
           - --allow-unauthenticated
