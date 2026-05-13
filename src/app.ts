@@ -25,6 +25,15 @@ const app = express()
 
 app.use(express.json())
 
+app.get('/', (_req, res) => {
+    res.json({
+        name: 'tarot-api',
+        version: '1.0.0',
+        description: 'A REST API for tarot card data. Check the GitHub README for docs!',
+        github: 'https://github.com/michelleenos/tarot-api',
+    })
+})
+
 app.get('/cards', (req, res) => {
     const queryRes = CardQuerySchema.safeParse(req.query)
     // if (!queryRes.success) return res.status(400).json({ error: z.flattenError(queryRes.error) })

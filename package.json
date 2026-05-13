@@ -1,7 +1,7 @@
 {
-    "name": "server",
+    "name": "tarot-api",
     "version": "1.0.0",
-    "description": "",
+    "description": "A REST API for tarot card data, including card meanings, suits, and random card draws.",
     "main": "index.js",
     "type": "module",
     "scripts": {
@@ -16,7 +16,7 @@
         "test:coverage": "vitest --coverage"
     },
     "keywords": [],
-    "author": "",
+    "author": "Michelle Enos",
     "license": "ISC",
     "packageManager": "pnpm@10.6.3",
     "devDependencies": {

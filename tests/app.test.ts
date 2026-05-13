@@ -5,6 +5,21 @@ import { type Response } from 'express'
 import { CardSchema, type Card } from '../src/schema'
 import { sendValidated } from '../src/utils'
 
+describe('GET /', () => {
+    test('returns basic info about the API', async () => {
+        const res = await request(app).get('/')
+        expect(res.status).toBe(200)
+        expect(res.body).toMatchInlineSnapshot(`
+          {
+            "description": "A REST API for tarot card data. Check the GitHub README for docs!",
+            "github": "https://github.com/michelleenos/tarot-api",
+            "name": "tarot-api",
+            "version": "1.0.0",
+          }
+        `)
+    })
+})
+
 describe('GET /cards', () => {
     test('returns all cards if no query passed', async () => {
         const res = await request(app).get('/cards')
